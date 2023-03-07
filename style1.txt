@@ -26,4 +26,9 @@
     </ul>
   </body>
 </html>
+git init
+git add .
+git commit -m "premier commit"
+git remote add origin https://github.com/votre-nom-utilisateur/nom-du-depot.git
+git push -u origin master
 
